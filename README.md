@@ -47,3 +47,5 @@ UofT Data Analytics Boot Camp Module 2 - VBA
 
 [Challenges Faced] https://github.com/BBBrian1124/stock-analysis/blob/Module-2_Challenge_UofT_Data_Analytics_Bootcamp/Challenges%20Faced.docx 
 * Contains more details about the challenges faced during this project
+
+[Link to Repository] https://github.com/BBBrian1124/stock-analysis/tree/Module-2_Challenge_UofT_Data_Analytics_Bootcamp
